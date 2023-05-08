@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**vitorelemental/vitorelemental** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Studying at Rocketseat 🚀
+>HTML
 
-Here are some ideas to get you started:
+>CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>JS
+
+### Projects:
+>NLW Setup - Habit Tracker
+
+### In development:
+>Elemental Studio
+
+### Languages:
+>Brazilian Portuguese - Fluent
+
+>English - Intermediate
